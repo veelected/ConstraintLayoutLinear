@@ -59,7 +59,7 @@
         android:layout_marginEnd="16dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Country"
+        android:text="City"
         android:textSize="20dp"
         app:layout_constraintEnd_toStartOf="@+id/button11"
         app:layout_constraintStart_toStartOf="parent"
@@ -119,18 +119,18 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="First Name"
+                    android:text="Bruce"
                     android:textAlignment="center"
-                    android:textColor="#FFFFFF"
+                    android:textColor="#F7FF20"
                     android:textSize="36dp" />
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Last Name"
+                    android:text="Wanye"
                     android:textAlignment="center"
-                    android:textColor="#FFFFFF"
+                    android:textColor="#F7FF20"
                     android:textSize="36dp" />
 
 
@@ -142,18 +142,18 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:shadowRadius="50"
-                android:text="Birthday"
+                android:text="April 17, 1915"
                 android:textAlignment="center"
-                android:textColor="#FFFFFF"
+                android:textColor="#F7FF20"
                 android:textSize="36dp" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Country"
+                android:text="Gotham"
                 android:textAlignment="center"
-                android:textColor="#FFFFFF"
+                android:textColor="#F7FF20"
                 android:textSize="36dp" />
         </LinearLayout>
     </androidx.cardview.widget.CardView>
